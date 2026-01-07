@@ -15,6 +15,6 @@
 
   ## Contact
 
-  For questions about this privacy policy, please open an issue at:
+  -For questions about this privacy policy, please open an issue at:
   https://github.com/EasonFrank17/claude-navigator
-  easonfrank17@gmail.com
+  -Email: easonfrank17@gmail.com
